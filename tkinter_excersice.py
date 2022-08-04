@@ -4,8 +4,8 @@ app.title("hello tkinter")
 def hi():
     pass
 def h():
-    print("hellop")
-    pass
+    print("hel")
+    
 
 l1 = Label(text="hello")
 l1.grid(row=1)
