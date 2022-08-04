@@ -4,7 +4,7 @@ app.title("hello tkinter")
 def hi():
     pass
 def h():
-    print("hel")
+    print("heloooooooooooo")
     
 
 l1 = Label(text="hajfoiajgfdsgsdgdfsgsdgfsdgsdgfiofdjaiofjdioafjioadfjiofjaoifjaiosdfjo")
