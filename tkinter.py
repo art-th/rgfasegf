@@ -7,7 +7,7 @@ def h():
     print("hel")
     
 
-l1 = Label(text="hello")
+l1 = Label(text="hajfoiajiofdjaiofjdioafjioadfjiofjaoifjaiosdfjo")
 l1.grid(row=1)
 bt=Button(command=hi)
 bt.grid(row=0,column=1)
